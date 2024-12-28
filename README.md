@@ -7,10 +7,9 @@ This repository will help you auto bypass adslink and make you to reach at final
 - save
 - Done now you are ready when you put modijiurl short limk in address bar of firefox it will be bypassed automatically
 
-## Enjoy happy life | I will add other site too
-## Rip to course sellers of telegram ads wale kaha jayenge 🤣🤣 saath me Modiji Site owner
+## Important Note to devs:
+- You can edit the other links also by fetching the DOM content load and seeing the logic for other sites also for this if any changes comes
 
-# Important Note to devs:
-- You can edit the other links also by fetching the DOM content load and seeing the logic for other sites also for this if any changes comes 
+### Enjoy happy life | I will add other site too
 
 Thanks
